@@ -5,5 +5,6 @@ bag += str[i];
 if(bag !== str){
 console.log("No");
 else{
-ye;
+console.log("No");
 }
+    
